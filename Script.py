@@ -1,6 +1,6 @@
 
 class script(object):
-    START_TXT = """<b>Hᴇʟʟᴏ {},ᴍʏ ɴᴀᴍᴇ <a href=https://t.me/{}>{}</a><b>,\n\nI Am The Most Powerful Auto Filter Bot With Premium Features.<b>\n\n<b> ⚜️ MANTAINED BY 👉 <a href=https://t.me/Sorry_Sorry_Galti_Ho_Gai>Deendayal</a></b>"""
+    START_TXT = """<b>Hᴇʟʟᴏ {},ᴍʏ ɴᴀᴍᴇ <a href=https://t.me/{}>{}</a><b>,\n\nI Am The Most Powerful Auto Filter Bot With Premium Features.<b>\n\n<b> ⚜️ MANTAINED BY 👉 <a href=https://t.me/subhadeep900>Devil S2</a></b>"""
 
     HELP_TXT = """<b>Hᴇʏ {}
 Hᴇʀᴇ Is Tʜᴇ Hᴇʟᴘ Fᴏʀ Mʏ Cᴏᴍᴍᴀɴᴅs.</b>"""
@@ -47,7 +47,7 @@ Cᴏᴍᴍᴀɴᴅs Aɴᴅ Usᴀɢᴇ:
 2. ᴛʜɪꜱ ʙᴏᴛ ꜱᴜᴘᴘᴏʀᴛꜱ ʙᴜᴛᴛᴏɴꜱ ᴡɪᴛʜ ᴀɴʏ ᴛᴇʟᴇɢʀᴀᴍ ᴍᴇᴅɪᴀ ᴛʏᴘᴇ.
 3. ʙᴜᴛᴛᴏɴꜱ ꜱʜᴏᴜʟᴅ ʙᴇ ᴘʀᴏᴘᴇʀʟʏ ᴘᴀʀꜱᴇᴅ ᴀꜱ ᴍᴀʀᴋᴅᴏᴡɴ ꜰᴏʀᴍᴀᴛ
 <b>ᴜʀʟ ʙᴜᴛᴛᴏɴꜱ:</b>
-<code>[Button Text](buttonurl:https://t.me/Deendayal_dhakad2/3)</code>
+<code>[Button Text](buttonurl:https://t.me/updatechannelfordevil/6)</code>
 <b>ᴀʟᴇʀᴛ ʙᴜᴛᴛᴏɴꜱ:</b>
 <code>[Button Text](buttonalert:ᴛʜɪꜱ ɪꜱ ᴀɴ ᴀʟᴇʀᴛ ᴍᴇꜱꜱᴀɢᴇ)</code>"""
 
@@ -668,13 +668,10 @@ Also your tutorial will be Added Your Group..."""
     DEVELOPER_TXT = """
 special Thanks To ❤️ Developers -
 
--Dev 1 [Owner of this bot ]<a href='https://t.me/Sorry_Sorry_Galti_Ho_Gai'>ⁱᵗᶻ ᵐᵉ ᵗᵍ 🇮🇳</a>
+-Dev 1 [Owner of this bot ]<a href='https://t.me/subhadeep900'>Devil S2</a>
 
--Dev 2 <a href='https://t.me/Deendayal_dhakad'>Deendayal dhakad</a>
+-Dev 2 <a href='https://t.me/subhadeep900'>Devil S2</a>
 
--Dev 3 <a href='https://t.me/Deendayal_dhakad_Group'>Jᴏᴇʟ </> TɢX</a>
-
-- Dev 4 <a href='https://t.me/Deendayal_dhakad'>Deendayal Dhakad</a>
 """
 
 
