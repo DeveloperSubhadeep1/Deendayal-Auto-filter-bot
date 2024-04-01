@@ -217,7 +217,7 @@ IMDb Data:
 🌟 Rating: <a href={url}/ratings>{rating}</a> / 10 (based on {votes} user ratings.)
 📀 RunTime: {runtime} Minutes
 📆 Release Info : {release_date}
-🎛 Countries : <code>{countries}</code>
+🌍 Countries : <code>{countries}</code>
 
 
 ⏰Result Shown in: {remaining_seconds} <i>seconds</i> 🔥
